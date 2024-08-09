@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Back-up/Old-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Back-up/Old-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New-FrontEnd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New-backEnd" vcs="Git" />
+  </component>
+</project>
